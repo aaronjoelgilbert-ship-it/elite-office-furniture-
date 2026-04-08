@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+*.log
+.cache
+.DS_Store
+attached_assets
+catalog-images
+.nexora-data
